@@ -1,0 +1,2 @@
+com/ayoub/custom_multi_imagepicker_2/BuildConfig.java
+ com.ayoub.custom_multi_imagepicker_2.BuildConfig

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PACKAGED_MANIFESTS",
+    "kind": "Directory"
+  },
+  "applicationId": "com.ayoub.custom_multi_imagepicker_2",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "outputFile": "../../library_manifest/debug/AndroidManifest.xml"
+    }
+  ]
+}

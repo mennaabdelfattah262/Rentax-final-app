@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825922393636",
+    "project_id": "rentax-b47a8",
+    "storage_bucket": "rentax-b47a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825922393636:android:c8e5d0c12d85d089e9aab1",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825922393636-bggqvs340du20ab69vo4n3vplatv5bhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC62UpEyPBcY-IKoyJs1fhh17oVl4hYwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825922393636-bggqvs340du20ab69vo4n3vplatv5bhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
